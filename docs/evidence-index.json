@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "E006",
+    "title": "Create virtual-host document roots",
+    "file": "evidence-006.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image3.png",
+    "report_occurrences": [
+      6
+    ],
+    "width": 697,
+    "height": 55,
+    "redaction": null,
+    "sha256": "2a86e10c8dbfa4f2d75d72964e63f332df706b680d9ae479a890deeec380d70c"
+  },
+  {
+    "id": "E007",
+    "title": "Write the first site homepage",
+    "file": "evidence-007.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image4.png",
+    "report_occurrences": [
+      7
+    ],
+    "width": 902,
+    "height": 94,
+    "redaction": null,
+    "sha256": "802a3115aa52fe25a2e7345807261c73939e64d29c194b3823eb929454af6cba"
+  },
+  {
+    "id": "E008",
+    "title": "Write the second site homepage",
+    "file": "evidence-008.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image5.png",
+    "report_occurrences": [
+      8
+    ],
+    "width": 888,
+    "height": 44,
+    "redaction": null,
+    "sha256": "451e22a9c34186b68cdcb654a6e033c4b00651b76de3a17b3c272ae9f98068c5"
+  },
+  {
+    "id": "E009",
+    "title": "Set document-root ownership",
+    "file": "evidence-009.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image6.png",
+    "report_occurrences": [
+      9
+    ],
+    "width": 898,
+    "height": 50,
+    "redaction": null,
+    "sha256": "88a47c155f2b902965c978bf859d7fff0416a3a0400fd66b8de7cb9da625efa9"
+  },
+  {
+    "id": "E010",
+    "title": "Open local hostname mappings",
+    "file": "evidence-010.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image7.png",
+    "report_occurrences": [
+      10
+    ],
+    "width": 896,
+    "height": 26,
+    "redaction": null,
+    "sha256": "4f1911d761e78b12ebaa8e31c84a6550fcf5e7de95455661638de3f6898603de"
+  },
+  {
+    "id": "E011",
+    "title": "Local hostname mappings",
+    "file": "evidence-011.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image8.png",
+    "report_occurrences": [
+      11
+    ],
+    "width": 623,
+    "height": 348,
+    "redaction": null,
+    "sha256": "4108fd43a2ced8249445ba4280348ddd4eb40941e4074a5fcbe03fa2e3831961"
+  },
+  {
+    "id": "E012",
+    "title": "Open the first virtual-host configuration",
+    "file": "evidence-012.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image9.png",
+    "report_occurrences": [
+      12
+    ],
+    "width": 896,
+    "height": 26,
+    "redaction": null,
+    "sha256": "157a94479ef192b11f023f3a7773c0397255c936510ce767a2643d37a4779bbb"
+  },
+  {
+    "id": "E013",
+    "title": "First virtual host and protected directory",
+    "file": "evidence-013.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image10.png",
+    "report_occurrences": [
+      13
+    ],
+    "width": 594,
+    "height": 434,
+    "redaction": null,
+    "sha256": "e330bd301ca1e7fab94fa9c68f8cca1d9c37b9017933d822e69c33ff3329e734"
+  },
+  {
+    "id": "E014",
+    "title": "Open the second virtual-host configuration",
+    "file": "evidence-014.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image11.png",
+    "report_occurrences": [
+      14
+    ],
+    "width": 853,
+    "height": 27,
+    "redaction": null,
+    "sha256": "ae15e606d954b42cdca37050b466e32d3c0bc99f07543e51aa176ee2651ef4cc"
+  },
+  {
+    "id": "E015",
+    "title": "Second virtual-host configuration",
+    "file": "evidence-015.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image12.png",
+    "report_occurrences": [
+      15
+    ],
+    "width": 455,
+    "height": 97,
+    "redaction": null,
+    "sha256": "14b7a1a6bbca64310aabc621062b42d152812bcb9cd9025caa028ec92dd1b871"
+  },
+  {
+    "id": "E016",
+    "title": "Enable sites and reload Apache",
+    "file": "evidence-016.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image13.png",
+    "report_occurrences": [
+      16
+    ],
+    "width": 526,
+    "height": 206,
+    "redaction": null,
+    "sha256": "29b0f7b232457ad5edd9a88768c4da6c2363a86506290880b8cbe64dba269381"
+  },
+  {
+    "id": "E017",
+    "title": "First virtual-host browser result",
+    "file": "evidence-017.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image14.png",
+    "report_occurrences": [
+      17
+    ],
+    "width": 531,
+    "height": 118,
+    "redaction": null,
+    "sha256": "f5d2e4e2e416724db5291cc6eaadb11711504a638c044ea77d3ac68b29296cf0"
+  },
+  {
+    "id": "E018",
+    "title": "Second virtual-host browser result",
+    "file": "evidence-018.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image15.png",
+    "report_occurrences": [
+      18
+    ],
+    "width": 531,
+    "height": 118,
+    "redaction": null,
+    "sha256": "8317fdbe5f98f4daee772542d6011cf437858c71156142172876fb9f537fff54"
+  },
+  {
+    "id": "E019",
+    "title": "Open prefork MPM settings",
+    "file": "evidence-019.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image16.png",
+    "report_occurrences": [
+      19
+    ],
+    "width": 846,
+    "height": 55,
+    "redaction": null,
+    "sha256": "b9a15599f6b661115eb5e1985ee2dcef00a1e3255c2d9ed0fcbca699ef7489e4"
+  },
+  {
+    "id": "E020",
+    "title": "Prefork MPM settings",
+    "file": "evidence-020.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image17.png",
+    "report_occurrences": [
+      20
+    ],
+    "width": 873,
+    "height": 305,
+    "redaction": null,
+    "sha256": "a33b634cd5226a6bf647ef92ce2e2b3a2f7417d22581d04b0f641d6b4752d7e2"
+  },
+  {
+    "id": "E021",
+    "title": "Create a protected directory",
+    "file": "evidence-021.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image18.png",
+    "report_occurrences": [
+      21
+    ],
+    "width": 445,
+    "height": 26,
+    "redaction": null,
+    "sha256": "45463fcc69498cb39fbdbdb27beb447110099d407f2181f99de4ce561ee8a0f0"
+  },
+  {
+    "id": "E022",
+    "title": "Write protected directory content",
+    "file": "evidence-022.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image19.png",
+    "report_occurrences": [
+      22
+    ],
+    "width": 1017,
+    "height": 53,
+    "redaction": null,
+    "sha256": "207a455da9b25b28a71c90c37bf0a64a8c156a545d2288b9b4067b274e673135"
+  },
+  {
+    "id": "E023",
+    "title": "Create an authentication user",
+    "file": "evidence-023.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image20.png",
+    "report_occurrences": [
+      23
+    ],
+    "width": 493,
+    "height": 93,
+    "redaction": null,
+    "sha256": "13e32e655cee8aa90ba8948ebf6121244f7caf33beed1e88d74de0ed7df1dafc"
+  },
+  {
+    "id": "E024",
+    "title": "Open directory authentication settings",
+    "file": "evidence-024.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image21.png",
+    "report_occurrences": [
+      24
+    ],
+    "width": 522,
+    "height": 26,
+    "redaction": null,
+    "sha256": "3216d4abf3ebb9ef382f09fd8cb6bcab94d13d2dfdc529d8b285ca1de24049d8"
+  },
+  {
+    "id": "E025",
+    "title": "Directory authentication settings",
+    "file": "evidence-025.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image22.png",
+    "report_occurrences": [
+      25
+    ],
+    "width": 827,
+    "height": 117,
+    "redaction": null,
+    "sha256": "03cd75d2ce431597277347352b037cbf34b222509824e0effd388b59607360bb"
+  },
+  {
+    "id": "E026",
+    "title": "Open the site configuration",
+    "file": "evidence-026.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image23.png",
+    "report_occurrences": [
+      26
+    ],
+    "width": 597,
+    "height": 26,
+    "redaction": null,
+    "sha256": "84c69ba78a897342d9daa93aaaf29329402e66b5064b81aa48a712ce08ca87e0"
+  },
+  {
+    "id": "E027",
+    "title": "Protected-directory virtual-host settings",
+    "file": "evidence-027.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image24.png",
+    "report_occurrences": [
+      27
+    ],
+    "width": 606,
+    "height": 441,
+    "redaction": null,
+    "sha256": "65d9a97ab4c74d703c07e0930dafba13e162b158493c493f7ebcd15486a39546"
+  },
+  {
+    "id": "E028",
+    "title": "Open the web monitoring script",
+    "file": "evidence-028.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image25.png",
+    "report_occurrences": [
+      28
+    ],
+    "width": 382,
+    "height": 35,
+    "redaction": null,
+    "sha256": "19b5caf2b5056ce4bbe6fe42f83bba1ddcfe034753620b9be40e646e23f9d265"
+  },
+  {
+    "id": "E029",
+    "title": "Web monitoring script",
+    "file": "evidence-029.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image26.png",
+    "report_occurrences": [
+      29
+    ],
+    "width": 757,
+    "height": 452,
+    "redaction": null,
+    "sha256": "bfd386114db0e023d19f5fd994eadf74b4dd07d9356f56a12e24875fa2f7d33f"
+  },
+  {
+    "id": "E030",
+    "title": "Set monitoring script permissions",
+    "file": "evidence-030.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image27.png",
+    "report_occurrences": [
+      30
+    ],
+    "width": 419,
+    "height": 29,
+    "redaction": null,
+    "sha256": "ed01e3168b0350aa9ba537bb9ac807e9927953d588161f4f897a0b7da3817084"
+  },
+  {
+    "id": "E031",
+    "title": "Web monitoring output",
+    "file": "evidence-031.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image28.png",
+    "report_occurrences": [
+      31
+    ],
+    "width": 419,
+    "height": 403,
+    "redaction": null,
+    "sha256": "85808c9c695f09a4fd7745b94b4e8bd713ee355fb0271dd10fc938f150649ef1"
+  },
+  {
+    "id": "E032",
+    "title": "Enable Apache at boot",
+    "file": "evidence-032.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image29.png",
+    "report_occurrences": [
+      32
+    ],
+    "width": 335,
+    "height": 26,
+    "redaction": null,
+    "sha256": "928cadf3c5bcd1a0f0fbd6d18042b8e81c9ee7902aee88da771bb2e3ef3006d9"
+  },
+  {
+    "id": "E033",
+    "title": "Reboot command",
+    "file": "evidence-033.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image30.png",
+    "report_occurrences": [
+      33
+    ],
+    "width": 156,
+    "height": 39,
+    "redaction": null,
+    "sha256": "c17aaf1a55fc10486a720afca8214d4b14cf87d9cd5ec864229266f39794b3a7"
+  },
+  {
+    "id": "E034",
+    "title": "Apache service status",
+    "file": "evidence-034.png",
+    "report_section": "1.0 Web Server",
+    "source_media": "media/image31.png",
+    "report_occurrences": [
+      34
+    ],
+    "width": 819,
+    "height": 408,
+    "redaction": null,
+    "sha256": "71a19cbbbf06aa7998aca06de6c1149d1b2cca9824dcdc12833f25713d928406"
+  },
+  {
+    "id": "E035",
+    "title": "Install BIND9",
+    "file": "evidence-035.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image32.png",
+    "report_occurrences": [
+      35
+    ],
+    "width": 812,
+    "height": 521,
+    "redaction": null,
+    "sha256": "b48a002383ad1d1741b42fae7a87eb92363701033e70900d202f977ca1ffbe7e"
+  },
+  {
+    "id": "E036",
+    "title": "Open local DNS zone declarations",
+    "file": "evidence-036.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image33.png",
+    "report_occurrences": [
+      36
+    ],
+    "width": 402,
+    "height": 32,
+    "redaction": null,
+    "sha256": "2c7213c97abe7adf9d8fc8414c5aeed5490f289358d3ea48aba38d3275e160da"
+  },
+  {
+    "id": "E037",
+    "title": "Local DNS zone declarations",
+    "file": "evidence-037.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image34.png",
+    "report_occurrences": [
+      37
+    ],
+    "width": 617,
+    "height": 378,
+    "redaction": null,
+    "sha256": "2ba36ecb95d22773280422221af6d08fb1ecc12fcc4617121054ad812c571a95"
+  },
+  {
+    "id": "E038",
+    "title": "Earlier reverse-zone declaration",
+    "file": "evidence-038.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image35.png",
+    "report_occurrences": [
+      38
+    ],
+    "width": 428,
+    "height": 106,
+    "redaction": null,
+    "sha256": "0f60c253b959b04bbfd1f3b5dd69eb66e7ac395bb658346fcaac4792cdceba09"
+  },
+  {
+    "id": "E039",
+    "title": "LAN reverse-zone declaration",
+    "file": "evidence-039.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image36.png",
+    "report_occurrences": [
+      39
+    ],
+    "width": 432,
+    "height": 100,
+    "redaction": null,
+    "sha256": "7f0696c818c27999bfa4bcc2fe3772965fce3e2d649773b7d6d4f36918dd3d3e"
+  },
+  {
+    "id": "E040",
+    "title": "Create the DNS zone directory",
+    "file": "evidence-040.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image37.png",
+    "report_occurrences": [
+      40
+    ],
+    "width": 293,
+    "height": 31,
+    "redaction": null,
+    "sha256": "e4a6ae22be341d8d21c746206c1ccd1cc167a5fee259f6354d1151d93bc83b66"
+  },
+  {
+    "id": "E041",
+    "title": "Open forward-zone files",
+    "file": "evidence-041.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image38.png",
+    "report_occurrences": [
+      41
+    ],
+    "width": 448,
+    "height": 34,
+    "redaction": null,
+    "sha256": "0363b876a1c378661596420f1bcf7c702f010e7ade4d5610f30c484f1bc6f07c"
+  },
+  {
+    "id": "E042",
+    "title": "First forward-zone records",
+    "file": "evidence-042.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image39.png",
+    "report_occurrences": [
+      42,
+      47
+    ],
+    "width": 607,
+    "height": 366,
+    "redaction": null,
+    "sha256": "4be3e5d60cf98e72291d2cfc436c9ba9039acc0515f3f2f781d5afcafded3e50"
+  },
+  {
+    "id": "E043",
+    "title": "Open the second forward zone",
+    "file": "evidence-043.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image40.png",
+    "report_occurrences": [
+      43
+    ],
+    "width": 447,
+    "height": 31,
+    "redaction": null,
+    "sha256": "fb7ee19242d04f8bb9c37e00c743d59727c7bc89963a189f2059b1d6d4c366dc"
+  },
+  {
+    "id": "E044",
+    "title": "Second forward-zone records",
+    "file": "evidence-044.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image41.png",
+    "report_occurrences": [
+      44,
+      48
+    ],
+    "width": 611,
+    "height": 329,
+    "redaction": null,
+    "sha256": "518ab60c5ef54015b32d7e6443cac42e8f21f65133fc13e8ee3685f9d7d1789e"
+  },
+  {
+    "id": "E045",
+    "title": "Prepare the reverse-zone file",
+    "file": "evidence-045.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image42.png",
+    "report_occurrences": [
+      45
+    ],
+    "width": 608,
+    "height": 89,
+    "redaction": null,
+    "sha256": "358299513e89d62540974f04eb5acf5d1e6859139770b858bc5ef744da4620b2"
+  },
+  {
+    "id": "E046",
+    "title": "LAN reverse-zone records",
+    "file": "evidence-046.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image43.png",
+    "report_occurrences": [
+      46
+    ],
+    "width": 604,
+    "height": 332,
+    "redaction": null,
+    "sha256": "4d3a83fa0d9dd20ec6154c9257fca00ddff7c342c482f17e8913bfd43f1c6148"
+  },
+  {
+    "id": "E049",
+    "title": "Reverse DNS lookup result",
+    "file": "evidence-049.png",
+    "report_section": "2.0 DNS Server",
+    "source_media": "media/image44.png",
+    "report_occurrences": [
+      49
+    ],
+    "width": 761,
+    "height": 496,
+    "redaction": null,
+    "sha256": "5093e691ae18672eb1ac23ef560f31763e26d6b7230b7fd4e8c8303e9cd1a24f"
+  },
+  {
+    "id": "E050",
+    "title": "Install ISC DHCP server",
+    "file": "evidence-050.png",
+    "report_section": "3.0 DHCP Server",
+    "source_media": "media/image45.png",
+    "report_occurrences": [
+      50
+    ],
+    "width": 812,
+    "height": 82,
+    "redaction": null,
+    "sha256": "8f287955abbbbfdfe9a2553ce74c819266c0c423bdfcb71c172239a14c9860c5"
+  },
+  {
+    "id": "E051",
+    "title": "Inspect IP addresses",
+    "file": "evidence-051.png",
+    "report_section": "3.0 DHCP Server",
+    "source_media": "media/image46.png",
+    "report_occurrences": [
+      51
+    ],
+    "width": 607,
+    "height": 603,
+    "redaction": null,
+    "sha256": "145d9d3398608e6a6981a32bf565710ff32390931f1d36d041c5f213a74d8132"
+  },
+  {
+    "id": "E052",
+    "title": "Inspect interface statistics",
+    "file": "evidence-052.png",
+    "report_section": "3.0 DHCP Server",
+    "source_media": "media/image47.png",
+    "report_occurrences": [
+      52
+    ],
+    "width": 612,
+    "height": 602,
+    "redaction": null,
+    "sha256": "629774ad4e5b3688c6ab286aac191aa4e1fba40babaaeae8cc060dd20c90aa6e"
+  },
+  {
+    "id": "E053",
+    "title": "DHCP pool and reservations",
+    "file": "evidence-053.png",
+    "report_section": "3.0 DHCP Server",
+    "source_media": "media/image48.png",
+    "report_occurrences": [
+      53
+    ],
+    "width": 617,
+    "height": 595,
+    "redaction": null,
+    "sha256": "1173a8dbf6153d17094779df8dd6c97d6473b3895eb3050ff1eeaf9b62c9eb2f"
+  },
+  {
+    "id": "E054",
+    "title": "Enable ISC DHCP server at boot",
+    "file": "evidence-054.png",
+    "report_section": "3.0 DHCP Server",
+    "source_media": "media/image49.png",
+    "report_occurrences": [
+      54
+    ],
+    "width": 614,
+    "height": 116,
+    "redaction": null,
+    "sha256": "12f6599596409edbcf6c3cd28cec4207b87311f9115b76b792deb6bfce2ead1f"
+  },
+  {
+    "id": "E055",
+    "title": "Lease file snapshot",
+    "file": "evidence-055.png",
+    "report_section": "3.0 DHCP Server",
+    "source_media": "media/image50.png",
+    "report_occurrences": [
+      55
+    ],
+    "width": 772,
+    "height": 201,
+    "redaction": null,
+    "sha256": "27107240d01a9689482650bb0224f152c1156b672f0b67b0bf325b267d31ba9a"
+  },
+  {
+    "id": "E056",
+    "title": "DHCP exchange in the system log",
+    "file": "evidence-056.png",
+    "report_section": "3.0 DHCP Server",
+    "source_media": "media/image51.png",
+    "report_occurrences": [
+      56
+    ],
+    "width": 616,
+    "height": 714,
+    "redaction": null,
+    "sha256": "eb5dc33b42615cf275ccd36b7693bc05b4baba5e4814f376f3e167ebbc42cd49"
+  },
+  {
+    "id": "E057",
+    "title": "Network interfaces before AP setup",
+    "file": "evidence-057.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image52.png",
+    "report_occurrences": [
+      57
+    ],
+    "width": 1224,
+    "height": 412,
+    "redaction": null,
+    "sha256": "c38ae1dd79a396603bd45c985888eea4e0ee83716794587c6fb5e29fa3290ee7"
+  },
+  {
+    "id": "E058",
+    "title": "Wireless adapter AP-mode support",
+    "file": "evidence-058.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image53.png",
+    "report_occurrences": [
+      58
+    ],
+    "width": 352,
+    "height": 136,
+    "redaction": null,
+    "sha256": "81ae35f7ba93d974f82a25bfbfacb5ae2a277997e1bdfa948a51d844c304f52b"
+  },
+  {
+    "id": "E059",
+    "title": "Rename the wireless interface",
+    "file": "evidence-059.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image54.png",
+    "report_occurrences": [
+      59
+    ],
+    "width": 595,
+    "height": 110,
+    "redaction": null,
+    "sha256": "e7f2026e6adddf57acb1937f9c3015018eceb8138c68f42f9c4579b9ccebd502"
+  },
+  {
+    "id": "E060",
+    "title": "Install access-point packages",
+    "file": "evidence-060.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image55.png",
+    "report_occurrences": [
+      60
+    ],
+    "width": 604,
+    "height": 491,
+    "redaction": null,
+    "sha256": "43368da54130aef0e820227e4a3ed43005b87f71332966dcf073631891bf5374"
+  },
+  {
+    "id": "E061",
+    "title": "Stop wireless services for configuration",
+    "file": "evidence-061.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image56.png",
+    "report_occurrences": [
+      61
+    ],
+    "width": 608,
+    "height": 49,
+    "redaction": null,
+    "sha256": "ed384dc48a0ff4eb1e78eab07707108cb57dce2124db667ba6d8f39013b9fb75"
+  },
+  {
+    "id": "E062",
+    "title": "Service disable output",
+    "file": "evidence-062.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image57.png",
+    "report_occurrences": [
+      62
+    ],
+    "width": 611,
+    "height": 698,
+    "redaction": null,
+    "sha256": "efc8e75d9224d8d51e5b9b094f18ddf3f07419151f196dfdd01fbcf5328c6810"
+  },
+  {
+    "id": "E063",
+    "title": "Open Netplan settings",
+    "file": "evidence-063.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image58.png",
+    "report_occurrences": [
+      63
+    ],
+    "width": 547,
+    "height": 33,
+    "redaction": null,
+    "sha256": "ffca274c61710b9cefb8b9d07aec3393d1497b5636b21e5951f322572c05adad"
+  },
+  {
+    "id": "E064",
+    "title": "Netplan interface settings",
+    "file": "evidence-064.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image59.png",
+    "report_occurrences": [
+      64
+    ],
+    "width": 607,
+    "height": 272,
+    "redaction": null,
+    "sha256": "f57d477dd09e075fdf2fb17c4ef1cffb504c01b5f016693c16b20e7cc3494281"
+  },
+  {
+    "id": "E065",
+    "title": "Interface and bridge states",
+    "file": "evidence-065.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image60.png",
+    "report_occurrences": [
+      65
+    ],
+    "width": 809,
+    "height": 401,
+    "redaction": null,
+    "sha256": "6401000a02cf7a47b9a24c294f4d670cb94c6036f359fb43d99cbdf54f26b20d"
+  },
+  {
+    "id": "E066",
+    "title": "Open hostapd configuration",
+    "file": "evidence-066.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image61.png",
+    "report_occurrences": [
+      66
+    ],
+    "width": 558,
+    "height": 29,
+    "redaction": null,
+    "sha256": "797baf21df0e9ddf6527534cf978d0a5b453632f9d0b29b009772f4caa691d7b"
+  },
+  {
+    "id": "E067",
+    "title": "Hostapd settings with password redacted",
+    "file": "evidence-067-redacted.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image62.png",
+    "report_occurrences": [
+      67
+    ],
+    "width": 597,
+    "height": 375,
+    "redaction": "Wi-Fi password line covered with a solid black box",
+    "sha256": "c4e26653d4b79a60a31102ff5a20ea9e2685d6964a4495c9753ace98d78c1a57"
+  },
+  {
+    "id": "E068",
+    "title": "Wireless adapter capabilities",
+    "file": "evidence-068.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image63.png",
+    "report_occurrences": [
+      68
+    ],
+    "width": 746,
+    "height": 692,
+    "redaction": null,
+    "sha256": "d498c97709f0deb8904571ca26abb7568f3a09e03b2e065989a3fc75e0efab78"
+  },
+  {
+    "id": "E069",
+    "title": "Open hostapd defaults",
+    "file": "evidence-069.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image64.png",
+    "report_occurrences": [
+      69
+    ],
+    "width": 469,
+    "height": 30,
+    "redaction": null,
+    "sha256": "4b13bc902fcee6e48e650bed067dca8c6c206ace54efbd56f6189891317b7786"
+  },
+  {
+    "id": "E070",
+    "title": "Hostapd defaults",
+    "file": "evidence-070.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image65.png",
+    "report_occurrences": [
+      70
+    ],
+    "width": 809,
+    "height": 496,
+    "redaction": null,
+    "sha256": "e4de7e801fedb529c5522ef0af019399eed14cb39dc400cdfaf04b670c9031a1"
+  },
+  {
+    "id": "E071",
+    "title": "Back up and open dnsmasq configuration",
+    "file": "evidence-071.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image66.png",
+    "report_occurrences": [
+      71
+    ],
+    "width": 669,
+    "height": 48,
+    "redaction": null,
+    "sha256": "db717d5f4aa1b951c0aff173c6f6e49fdbf9f2034d3010c7f070ee458f2fa953"
+  },
+  {
+    "id": "E072",
+    "title": "Wireless DHCP settings",
+    "file": "evidence-072.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image67.png",
+    "report_occurrences": [
+      72
+    ],
+    "width": 805,
+    "height": 175,
+    "redaction": null,
+    "sha256": "4c03771d25490d9812c079bd1d881c3b5038ac820c71bec13d3497313fb04d99"
+  },
+  {
+    "id": "E073",
+    "title": "Enable IPv4 forwarding",
+    "file": "evidence-073.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image68.png",
+    "report_occurrences": [
+      73
+    ],
+    "width": 439,
+    "height": 67,
+    "redaction": null,
+    "sha256": "273a7725e47f4a3bbc25b43f164fce64e0e0794e8c9f50eaf3ded55259687688"
+  },
+  {
+    "id": "E074",
+    "title": "Persistent IPv4 forwarding setting",
+    "file": "evidence-074.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image69.png",
+    "report_occurrences": [
+      74
+    ],
+    "width": 819,
+    "height": 111,
+    "redaction": null,
+    "sha256": "d1a2b6944a4a947d2cd692106e139cfca53b1c6dc6afc98478e986144c056041"
+  },
+  {
+    "id": "E075",
+    "title": "Enable wireless services at boot",
+    "file": "evidence-075.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image70.png",
+    "report_occurrences": [
+      75
+    ],
+    "width": 814,
+    "height": 264,
+    "redaction": null,
+    "sha256": "ee00e963c84ca58f8cbbc9819cbf1424f4352a9e70b02199b79d931ca126e246"
+  },
+  {
+    "id": "E076",
+    "title": "Hostapd active service status",
+    "file": "evidence-076.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image71.png",
+    "report_occurrences": [
+      76
+    ],
+    "width": 1206,
+    "height": 486,
+    "redaction": null,
+    "sha256": "593f827e046ae045d5bc9087be18212262be4caeb889df0e8f010b0deb07c73a"
+  },
+  {
+    "id": "E077",
+    "title": "Dnsmasq active service status",
+    "file": "evidence-077.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image72.png",
+    "report_occurrences": [
+      77
+    ],
+    "width": 1203,
+    "height": 583,
+    "redaction": null,
+    "sha256": "ceab370098bea5ed9290c7009eef62b1e4b8168e1d5b6aee653749fedbb38466"
+  },
+  {
+    "id": "E078",
+    "title": "Routing table snapshot",
+    "file": "evidence-078.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image73.png",
+    "report_occurrences": [
+      78
+    ],
+    "width": 694,
+    "height": 101,
+    "redaction": null,
+    "sha256": "eff4c6f443b1717aeddb6f1d3b6eacaab32d5cc0885abc4883f8db523e14badc"
+  },
+  {
+    "id": "E079",
+    "title": "Apply IPv4 forwarding setting",
+    "file": "evidence-079.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image74.png",
+    "report_occurrences": [
+      79
+    ],
+    "width": 341,
+    "height": 42,
+    "redaction": null,
+    "sha256": "047d72b7b2b2ccea4dd6605d042541349662df11368f6fa008d929f617780237"
+  },
+  {
+    "id": "E080",
+    "title": "NAT and forwarding rules",
+    "file": "evidence-080.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image75.png",
+    "report_occurrences": [
+      80
+    ],
+    "width": 1058,
+    "height": 72,
+    "redaction": null,
+    "sha256": "7be99d7aca0cf14454fe4683a00149e839d559f0b0703480599e81ba0a5c7089"
+  },
+  {
+    "id": "E081",
+    "title": "Install firewall persistence packages",
+    "file": "evidence-081.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image76.png",
+    "report_occurrences": [
+      81
+    ],
+    "width": 1141,
+    "height": 710,
+    "redaction": null,
+    "sha256": "a3e5697ee567e2cc006d380ab35d6cb5061b6da2b95839d9027ab6baeda545c8"
+  },
+  {
+    "id": "E082",
+    "title": "Save firewall rules prompt",
+    "file": "evidence-082.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image77.png",
+    "report_occurrences": [
+      82
+    ],
+    "width": 603,
+    "height": 713,
+    "redaction": null,
+    "sha256": "168d47349b3eae062570853ab3e2667d97190f2fae633eff70a7c6d678d4b243"
+  },
+  {
+    "id": "E083",
+    "title": "Wireless throughput monitoring script",
+    "file": "evidence-083.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image78.png",
+    "report_occurrences": [
+      83
+    ],
+    "width": 1203,
+    "height": 475,
+    "redaction": null,
+    "sha256": "a2e37c78409adb108d65a3d35a99bedd2a5ef31df39203ccb39f05e18796b053"
+  },
+  {
+    "id": "E084",
+    "title": "Wireless throughput monitor output",
+    "file": "evidence-084.png",
+    "report_section": "4.0 Wireless Access Point",
+    "source_media": "media/image79.png",
+    "report_occurrences": [
+      84
+    ],
+    "width": 480,
+    "height": 216,
+    "redaction": null,
+    "sha256": "630b12da1db878cb39fb34c7c92bca7a727d6cdf69be15e4dd2543cfc48d9eae"
+  },
+  {
+    "id": "E085",
+    "title": "Performance monitoring script first part",
+    "file": "evidence-085.png",
+    "report_section": "5.0 Additional Features",
+    "source_media": "media/image80.png",
+    "report_occurrences": [
+      85
+    ],
+    "width": 1044,
+    "height": 651,
+    "redaction": null,
+    "sha256": "49dcdafdb75c25ba30ea539d0f0a88ea64ca90f8c4aebad4a8aa0a078767cd37"
+  },
+  {
+    "id": "E086",
+    "title": "Performance monitoring script second part",
+    "file": "evidence-086.png",
+    "report_section": "5.0 Additional Features",
+    "source_media": "media/image81.png",
+    "report_occurrences": [
+      86
+    ],
+    "width": 646,
+    "height": 312,
+    "redaction": null,
+    "sha256": "6b3b0f37f3df4a662fbd4480295a2b92eecb69fbb85c9a26c1c03d7ca970af48"
+  },
+  {
+    "id": "E087",
+    "title": "Start performance logging",
+    "file": "evidence-087.png",
+    "report_section": "5.0 Additional Features",
+    "source_media": "media/image82.png",
+    "report_occurrences": [
+      87
+    ],
+    "width": 606,
+    "height": 142,
+    "redaction": null,
+    "sha256": "0e426ed1a942f56f24ef2afa327355df110e847c8b58e3d2cec496df0601b416"
+  },
+  {
+    "id": "E088",
+    "title": "Input allow rules and NAT",
+    "file": "evidence-088.png",
+    "report_section": "5.0 Additional Features",
+    "source_media": "media/image83.png",
+    "report_occurrences": [
+      88
+    ],
+    "width": 615,
+    "height": 184,
+    "redaction": null,
+    "sha256": "91a80faf667ee851cc72c1e76c6eca229aa04e651d7a4e58268503c325abbf97"
+  },
+  {
+    "id": "E089",
+    "title": "Performance monitor systemd unit",
+    "file": "evidence-089.png",
+    "report_section": "5.0 Additional Features",
+    "source_media": "media/image84.png",
+    "report_occurrences": [
+      89
+    ],
+    "width": 602,
+    "height": 293,
+    "redaction": null,
+    "sha256": "56f8f00bd5284633dc637226b07a291859011067437a13e4b6715cd1e2cf3a01"
+  },
+  {
+    "id": "E090",
+    "title": "Service enable and backup commands",
+    "file": "evidence-090.png",
+    "report_section": "5.0 Additional Features",
+    "source_media": "media/image85.png",
+    "report_occurrences": [
+      90
+    ],
+    "width": 616,
+    "height": 557,
+    "redaction": null,
+    "sha256": "268b277de33dcfea86f27a9c4459592d51bb1021e58b5c6723e6c84b49bd05c1"
+  },
+  {
+    "id": "E091",
+    "title": "Alternative NAT interface rule",
+    "file": "evidence-091.png",
+    "report_section": "5.0 Additional Features",
+    "source_media": "media/image86.png",
+    "report_occurrences": [
+      91
+    ],
+    "width": 628,
+    "height": 28,
+    "redaction": null,
+    "sha256": "b73b49c07f9ca60148d4d098a6aa62948cd7d35170cae720f51d177f89374bbc"
+  },
+  {
+    "id": "E092",
+    "title": "Additional forwarding rules and persistence",
+    "file": "evidence-092.png",
+    "report_section": "5.0 Additional Features",
+    "source_media": "media/image87.png",
+    "report_occurrences": [
+      92
+    ],
+    "width": 634,
+    "height": 195,
+    "redaction": null,
+    "sha256": "6d58ba84a336949d3d40e9e057cd98bc1be7617419b7bf9e1cf7310641eb5781"
+  }
+]

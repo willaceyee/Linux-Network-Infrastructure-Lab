@@ -1,0 +1,16 @@
+# Private reports and environment artifacts
+*.docx
+*.pdf
+*.sql
+*.pcap
+*.pcapng
+*.vdi
+*.vmdk
+*.ova
+*.log
+.env
+.env.*
+private/
+*private*
+Thumbs.db
+.DS_Store
